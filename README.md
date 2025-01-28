@@ -17,6 +17,6 @@
 16. Una vez lo tengamos pulsaremos en **File --> Open from Cloud Drive**
 17. Se nos abrirá otra ventana la cual tendremos que pulsar en **Add.. --> Google Drive (restricted)**
 18. Una vez le demos se nos abrirá Google y tendremos que aceptar y ya tendríamos asociado el **Google Drive** a nuestra **Base de datos** 
-[Uso de GitHub](GitHub.md)
-[Instalacion de GitHub](install.md)
-[Comandos Básicos de GitHub](UsoGit.md)
+* [Uso de GitHub](GitHub.md)
+* [Instalacion de GitHub](install.md)
+* [Comandos Básicos de GitHub](UsoGit.md)
